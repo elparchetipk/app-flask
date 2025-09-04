@@ -33,7 +33,7 @@ marshmallow==3.20.2
 python-dotenv==1.0.0
 
 # Desarrollo
-flask-shell-ipython==1.4.0
+flask-shell-ipython==0.5.3
 
 # Testing (opcional para desarrollo)
 pytest==7.4.3
